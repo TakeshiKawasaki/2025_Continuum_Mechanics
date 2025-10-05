@@ -8,3 +8,4 @@ This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 ## 講義資料更新情報
+- **10/05**：第1回講義資料を `Lecture1` におきました．講義が進むにつれ資料をアップデートさせます． 
