@@ -7,7 +7,7 @@ This work is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-## 講義資料更新情報
+## 講義資料更新情報(注： 講義直前まで修正の可能性があります)
 - **10/05**：第1回講義資料を `Lecture1` におきました．講義が進むにつれ資料をアップデートさせます．
 
 ## 講義内容（予定）
