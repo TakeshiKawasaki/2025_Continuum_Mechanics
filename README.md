@@ -21,3 +21,4 @@ This work is licensed under a
 | 第4回  | 線形弾性論（1） | Hookeの法則・弾性率テンソル|
 | 第5回  | 線形弾性論（2） | Lamé係数とYoung率 |
 | 第6回  | 線形弾性論（3） | Navier方程式と弾性波 |
+| 第7回  | 理想流体 | Euler方程式と Bernoulliの定理 |
