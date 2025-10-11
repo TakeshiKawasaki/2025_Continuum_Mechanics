@@ -23,3 +23,4 @@ This work is licensed under a
 | 第6回  | 線形弾性論（3） | Navier方程式と弾性波 |
 | 第7回  | 理想流体(1) | Euler方程式と Bernoulliの定理 |
 | 第8回  | 理想流体(2) | ポテンシャル流 |
+| 第9回  | 粘性流体(1) | Navier–Stokes方程式 |
