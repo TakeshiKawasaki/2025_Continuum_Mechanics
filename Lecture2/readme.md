@@ -1,7 +1,15 @@
 # 第2回講義資料  
-**内容：**  Lagrange形式，連続の式の復習．連続体にかかる力と運動方程式
-## Q&A集 
-https://www.notion.so/2-Q-A-297c4e3a1a4e80e880c2f1a685deda29?source=copy_link
+
+**内容：** Lagrange形式，連続の式の復習．連続体にかかる力と運動方程式  
+
+## Q&A集  
+[リンク](https://www.notion.so/2-Q-A-297c4e3a1a4e80e880c2f1a685deda29?source=copy_link)
+
 ## 修正履歴  
-10/20:14:32  図4および式14を修正
+- 10/20 14:32: 図4および式(14)を修正  
+- 10/26: 例題2-2追記（補足：体積積分  
+  $$
+  \int_V \mathrm{d}V
+  $$
+  の被積分関数が満たす式）
 
