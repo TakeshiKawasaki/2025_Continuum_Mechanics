@@ -1,6 +1,6 @@
 # 第9回講義資料  
 **内容：**  低レイノルズ数流体: Stokes抵抗則
 ## Q&A集 
-N/A
+https://irradiated-pot-667.notion.site/9-Q-A-2d0c4e3a1a4e80e8bb24c3ebeb51f58f
 ## 修正履歴  
 p31: 図2はこれを図示したもの  ->  図1はこれを図示したもの 
