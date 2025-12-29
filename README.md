@@ -20,7 +20,7 @@ This work is licensed under a
 - **12/15**：第9回講義資料を`Lecture9` におきました．
 - **12/19**：第10回講義資料を`Lecture 10` におきました．
 - **12/19**：レポート課題を`Assignment` におきました．
-  
+- **12/29**：第11回講義資料（暫定版）を`Lecture 11` におきました．
 ## 講義内容（実施＋予定）
 
 | 回 | タイトル | 内容 |
@@ -35,6 +35,6 @@ This work is licensed under a
 | 第8回  | 低Reynolds数流体(1) | Reynolds数による分類，低Reynolds数流体 |
 | 第9回  | 低Reynolds数流体(2) | Stokes抵抗則 |
 | 第10回  | 高Reynolds数流体(1) | Euler方程式とBernoulliの法則 |
-| 第11回  | 高Reynolds数流体(2) | Lagrangeの渦定理，ポテンシャル流 |
-| 第12回  | 高Reynolds数流体(3) | 渦度と循環 |
+| 第12回  | 高Reynolds数流体(2) | 渦度と循環，Kelvinの循環定理，Helmholtzの渦定理，Lagrangeの渦定理|
+| 第11回  | 高Reynolds数流体(3) | ポテンシャル流 |
 | 第13回  | 高Reynolds数流体(4)| 2次元非粘性流体/ 乱流 |
