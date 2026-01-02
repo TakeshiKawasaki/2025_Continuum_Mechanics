@@ -36,5 +36,5 @@ This work is licensed under a
 | 第9回  | 低Reynolds数流体(2) | Stokes抵抗則 |
 | 第10回  | 高Reynolds数流体(1) | Euler方程式とBernoulliの法則 |
 | 第12回  | 高Reynolds数流体(2) | 渦度と循環，Kelvinの循環定理，Helmholtzの渦定理，Lagrangeの渦定理|
-| 第11回  | 高Reynolds数流体(3) | ポテンシャル流，ヘルムホルツ分解 |
+| 第11回  | 高Reynolds数流体(3) | ポテンシャル流，Helmholtz分解 |
 | 第13回  | 高Reynolds数流体(4)| 2次元非粘性流体/ 乱流 |
