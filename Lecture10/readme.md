@@ -3,7 +3,7 @@
 **内容：**  
 高レイノルズ数流体　Bernoulli則
 ## Q&A集  
-N/A
+https://irradiated-pot-667.notion.site/10-Q-A-2dec4e3a1a4e804fb4cbfb1a302149c2
 ## 修正履歴  
 p20に複数の訂正あり．勾配の方向を$du$，$d\omega$方向としていましたが，$u$，$\omega$方向に訂正．式36,37にも関連した修正を加えました．混乱を招き申し訳ありません。
 
