@@ -8,8 +8,7 @@ N/A
 N/A
 
 ## 参考：渦糸まわりの棒の運動
-
-[13-1.pdf](https://github.com/user-attachments/files/24843105/13-1.pdf)
+[13-1.pdf](https://github.com/user-attachments/files/24843107/13-1.pdf)
 
 
 https://github.com/user-attachments/assets/5d68e5ac-530c-4a32-bbd3-171cc0df801e
