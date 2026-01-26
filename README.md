@@ -39,4 +39,4 @@ This work is licensed under a
 | 第10回  | 高Reynolds数流体(1) | Euler方程式とBernoulliの法則 |
 | 第11回  | 高Reynolds数流体(2) | 渦度と循環，Kelvinの循環定理，Helmholtzの渦定理，Lagrangeの渦定理|
 | 第12回  | 高Reynolds数流体(3) | Helmholtz分解，ポテンシャル流|
-| 第13回  | 高Reynolds数流体(4)| 2次元非粘性流体| 複素関数論|
+| 第13回  | 高Reynolds数流体(4)| 2次元非粘性流体， 複素関数論|
