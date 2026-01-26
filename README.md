@@ -22,7 +22,7 @@ This work is licensed under a
 - **12/19**：レポート課題を`Assignment` におきました．
 - **01/05**：第11回講義資料を`Lecture 11` におきました．
 - **01/19**：第12回講義資料を`Lecture 12` におきました．
-- **01/24**：第13回講義資料（暫定版）を`Lecture 13` におきました．
+- **01/24**：第13回講義資料を`Lecture 13` におきました．
 ## 講義内容（実施＋予定）
 
 | 回 | タイトル | 内容 |
@@ -39,4 +39,4 @@ This work is licensed under a
 | 第10回  | 高Reynolds数流体(1) | Euler方程式とBernoulliの法則 |
 | 第11回  | 高Reynolds数流体(2) | 渦度と循環，Kelvinの循環定理，Helmholtzの渦定理，Lagrangeの渦定理|
 | 第12回  | 高Reynolds数流体(3) | Helmholtz分解，ポテンシャル流|
-| 第13回  | 高Reynolds数流体(4)| 2次元非粘性流体|
+| 第13回  | 高Reynolds数流体(4)| 2次元非粘性流体| 複素関数論|
